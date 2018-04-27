@@ -27,15 +27,19 @@ https://wolska0511.github.io/mojefotografie/[Nasze Portfolio]
 |===
 Tabela. 1. Programy do obróbki zdjęć
 
+= _Wybierz temat i pracuj nad nim do wyczerpania… Musi to być coś, co naprawdę kochasz lub wyjątkowo nienawidzisz. Dorothea Lange_
 
-|===
-| Najciekawsze banki zdjęć
-| Google Nik Collection	
-| Polarr Photo Editor | Polarr
-| Fotor | Fotor
-| Autodesk Pixlr Editor | Autodesk
-| PicMonkey | PicMonkey
-|===
-Tabela. 2. Programy do obróbki zdjęć
+== Najciekawsze banki zdjęć
+[squere]
+. MAGDELEINE.COM
+
+. FOODIESFEED.COM
+
+. KABOOMPICS.COM
+
+. GETREFE.TUBLR.COM
+
+. UNSPLASH.COM
+
 
 image::aw.jpg[aw.jpg,1000]
