@@ -7,8 +7,8 @@ image::kredki.JPG[kredki.JPG,250]
 
 == Źródła fotograficznych inspiracji:
 
-* [x] <http://www.national-geographic.pl/fotografia>
+* <http://www.national-geographic.pl/fotografia>
 
-* [x] <https://www.szerokikadr.pl/>
+* <https://www.szerokikadr.pl/>
 
-* [x] <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
+* <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
