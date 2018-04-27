@@ -29,7 +29,10 @@ body {
 
 .three {
   grid-area: 4 / 1 / 7 / 3;
-  background-color: #dd0000;
+  background-image: url("ru2.jpg");
+  background-color: black;
+  background-size:contain;
+  background-position: center;
 }
 
 .four {
