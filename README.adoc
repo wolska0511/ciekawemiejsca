@@ -28,10 +28,14 @@ https://wolska0511.github.io/mojefotografie/[Nasze Portfolio]
 Tabela. 1. Programy do obróbki zdjęć
 
 
-== Installation
+|===
+| Najciekawsze banki zdjęć
+| Google Nik Collection	
+| Polarr Photo Editor | Polarr
+| Fotor | Fotor
+| Autodesk Pixlr Editor | Autodesk
+| PicMonkey | PicMonkey
+|===
+Tabela. 2. Programy do obróbki zdjęć
 
-Asciidoctor can be installed using (a) the `gem install` command, (b) Bundler, (c) package managers for popular Linux distributions, or (d) Homebrew for macOS.
-
-<3: The benefit of using a Linux package manager to install the gem is that it handles installing Ruby and the RubyGems library if those packages are not already installed on your machine.
-The drawback is that the package may not be available immediately after the release of the gem.
-If you need the latest version, you can always fallback to using the `gem` command.
+image::aw.jpg[aw.jpg,1000]
