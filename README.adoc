@@ -1,8 +1,10 @@
 = _Witajcie Fotomianiacy!!!_ 
 
+image::al.jpg[al.jpg,1000]
+
 https://wolska0511.github.io/mojefotografie/[Nasze Portfolio]
 
-image::al.jpg[al.jpg,1000]
+
 
 
 == Źródła fotograficznych inspiracji:
