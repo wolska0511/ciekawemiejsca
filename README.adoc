@@ -2,7 +2,7 @@
 
 https://wolska0511.github.io/mojefotografie/[Nasze Portfolio]
 
-image::kredki.JPG[kredki.JPG,250]
+image::al.JPG[al.JPG,250]
 
 
 == Źródła fotograficznych inspiracji:
