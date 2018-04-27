@@ -13,7 +13,9 @@ body {
 
 .one {
   grid-area: 1 / 1 / 4 / 4;
-  background-color: pink;
+  background-image: url("li.jpg");
+  background-size:contain;
+  background-position: top left;
 }
 
 .two {
@@ -30,7 +32,9 @@ body {
 
 .four {
   grid-area: 5 / 3 / 7 / 6;
-  background-color: pink;
+  background-image: url("ru.jpg");
+  background-size:contain;
+background-position: top left;
 }
 
 .five {
