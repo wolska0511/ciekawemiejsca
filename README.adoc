@@ -17,7 +17,6 @@ image::kredki.JPG[kredki.JPG,250]
 
 |===
 | Program	|  Producent
-|RED | RED
 | Google Nik Collection	| Google
 | Polarr Photo Editor | Polarr
 | Fotor | Fotor
