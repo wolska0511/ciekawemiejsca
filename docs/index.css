@@ -15,14 +15,14 @@ body {
   grid-area: 1 / 1 / 4 / 4;
   background-image: url("li.jpg");
   background-size:contain;
-  background-position: top left;
+  background-position: center;
 }
 
 .two {
   grid-area: 1 / 4 / 5 / 6;
   background-image: url("kredki.JPG");
   background-size:contain;
-  background-position: top left;
+  background-position: center;
 }
 
 .three {
@@ -34,7 +34,7 @@ body {
   grid-area: 5 / 3 / 7 / 6;
   background-image: url("ru.jpg");
   background-size:contain;
-background-position: top left;
+  background-position: center;
 }
 
 .five {
