@@ -12,3 +12,15 @@ image::kredki.JPG[kredki.JPG,250]
 * <https://www.szerokikadr.pl/>
 
 * <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
+
+== Bezpłatne programy do obróbki zdjęć 
+
+|===
+| Program	|  Producent
+| Google Nik Collection	| Google
+| Polarr Photo Editor | Polarr
+| Fotor | Fotor
+| Autodesk Pixlr Editor | Autodesk
+| PicMonkey | PicMonkey
+|===
+Tabela. 1. Ludność Gdyni
