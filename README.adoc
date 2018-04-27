@@ -2,7 +2,7 @@
 
 https://wolska0511.github.io/mojefotografie/[Nasze Portfolio]
 
-image::al.jpg[al.jpg,250]
+image::al.jpg[al.jpg,1000]
 
 
 == Źródła fotograficznych inspiracji:
