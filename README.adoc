@@ -1,1 +1,10 @@
-# strona2
+= _Witajcie Fotomianiacy!!!_      image::ilovegdynialogo.png[ilovegdynialogo,400]
+
+
+== Źródła fotograficznych inspiracji:
+
+* [x] <http://www.national-geographic.pl/fotografia>
+
+* [x] <https://www.szerokikadr.pl/>
+
+* [x] <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
