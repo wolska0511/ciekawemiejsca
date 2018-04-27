@@ -1,6 +1,6 @@
 = _Witajcie Fotomianiacy!!!_ 
 
-* [Nasze portfolio](https://wolska0511.github.io/mojefotografie/).
+* Nasze Portfolio (https://wolska0511.github.io/mojefotografie/).
 
 image::kredki.JPG[kredki.JPG,250]
 
