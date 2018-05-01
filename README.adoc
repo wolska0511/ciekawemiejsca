@@ -39,5 +39,6 @@ Tabela. 1. Programy do obróbki zdjęć
 
 . <http://www.unsplash.com>
 
+#Dziękujemy#
 
 image::aw.jpg[aw.jpg,1000]
