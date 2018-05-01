@@ -6,7 +6,7 @@ https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 
 
 
-
+'''
 == Źródła fotograficznych inspiracji:
 
 * <http://www.national-geographic.pl/fotografia>
@@ -14,7 +14,7 @@ https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 * <https://www.szerokikadr.pl/>
 
 * <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
-
+'''
 == Bezpłatne programy do obróbki zdjęć 
 
 [options="footer"]
@@ -28,9 +28,10 @@ https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 | PicMonkey | PicMonkey
 |===
 Tabela. 1. Programy do obróbki zdjęć
-
+'''
 = _"Wybierz temat i pracuj nad nim do wyczerpania… Musi to być coś, co naprawdę kochasz lub wyjątkowo nienawidzisz." Dorothea Lange_
 
+'''
 == Najciekawsze banki zdjęć
 [squere]
 . <http://www.magdeleine.com>
@@ -40,6 +41,8 @@ Tabela. 1. Programy do obróbki zdjęć
 . <http://www.kaboompics.com>
 
 . <http://www.unsplash.com>
+
+'''
 
 * [*] Fotografia
 * [x] Pasja
