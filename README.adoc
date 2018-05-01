@@ -39,8 +39,8 @@ Tabela. 1. Programy do obróbki zdjęć
 
 . <http://www.unsplash.com>
 
-*[*] Fotografia
-*[*] Pasja
-*[*] Zaangażowanie
+* [*] Fotografia
+* [*] Pasja
+* [*] Zaangażowanie
 
 image::aw.jpg[aw.jpg,1000]
