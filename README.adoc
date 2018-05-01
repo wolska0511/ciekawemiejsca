@@ -27,8 +27,7 @@ https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 |===
 Tabela. 1. Programy do obróbki zdjęć
 
-= _"Wybierz temat i pracuj nad nim do wyczerpania… +
-= Musi to być coś, co naprawdę kochasz lub wyjątkowo nienawidzisz." Dorothea Lange_
+= _"Wybierz temat i pracuj nad nim do wyczerpania… Musi to być coś, co naprawdę kochasz lub wyjątkowo nienawidzisz." Dorothea Lange_
 
 == Najciekawsze banki zdjęć
 [squere]
