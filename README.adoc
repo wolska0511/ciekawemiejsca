@@ -1,4 +1,4 @@
-[sidebar]
+
 = _Witajcie Fotomianiacy!!!_ 
 
 image::al.jpg[al.jpg,1000]
@@ -6,7 +6,7 @@ image::al.jpg[al.jpg,1000]
 https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 
 
-
+[sidebar]
 == Źródła fotograficznych inspiracji:
 
 * <http://www.national-geographic.pl/fotografia>
