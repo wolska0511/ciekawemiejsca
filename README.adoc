@@ -17,6 +17,7 @@ https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 
 == Bezpłatne programy do obróbki zdjęć 
 
+[options="footer"]
 |===
 | Program	|  Producent
 | Google Nik Collection	| Google
