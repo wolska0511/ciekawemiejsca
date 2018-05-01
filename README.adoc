@@ -53,4 +53,6 @@ ____
 * [x] Pasja
 * [x] Zaangażowanie
 
+icon:tags[] Ania i Lucyna
+
 image::aw.jpg[aw.jpg,1000]
