@@ -31,15 +31,15 @@ Tabela. 1. Programy do obróbki zdjęć
 
 == Najciekawsze banki zdjęć
 [squere]
-. MAGDELEINE.COM
+. <http://www.magdeleine.com>
 
-. FOODIESFEED.COM
+. <http://www.foodiesfeed.com>
 
-. KABOOMPICS.COM
+. <http://www.kaboompics.com>
 
-. GETREFE.TUBLR.COM
+. <http://www.getrefe.tumbrl.com>
 
-. UNSPLASH.COM
+. <http://www.unsplash.com>
 
 
 image::aw.jpg[aw.jpg,1000]
