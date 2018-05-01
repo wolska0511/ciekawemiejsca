@@ -1,3 +1,4 @@
+[sidebar]
 = _Witajcie Fotomianiacy!!!_ 
 
 image::al.jpg[al.jpg,1000]
