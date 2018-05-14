@@ -5,6 +5,8 @@ image::al.jpg[al.jpg,1000]
 
 https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 
+Wspaniały plener, piękne światło, w rękach wymarzony cyfrak, a efekt na zdjęciu mizerny. Czasem nie zdajemy sobie sprawy, że bez żadnych dodatkowych nakładów finansowych możemy robić lepsze fotografie – wystarczy tylko poznać podstawy kompozycji. Jedną z nich jest tzw. reguła trójpodziału, często błędnie określana przez początkujących fotoamatorów jako "zasada trzech".
+
 
 [sidebar]
 == Źródła fotograficznych inspiracji:
@@ -14,6 +16,8 @@ https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 * <https://www.szerokikadr.pl/>
 
 * <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
+
+Początkujący fotoamatorzy kadrując zdjęcia, umieszczają często główny motyw fotografii w centrum kadru – tam bowiem autofocus zazwyczaj "łapie" ostrość. Jednak taki sposób kadrowania sprawdza się tylko w nielicznych przypadkach. Umieszczenie motywu poza środkiem obrazu nadaje zazwyczaj kompozycji zdjęcia silniejszy wyraz, niż gdyby obiekt znajdował się dokładnie w centrum.
 
 == Bezpłatne programy do obróbki zdjęć 
 
@@ -29,13 +33,17 @@ https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 |===
 Tabela. 1. Programy do obróbki zdjęć
 
-
+Linie podziału i mocne punkty są najważniejszymi miejscami na zdjęciu. W punktach tych zazwyczaj warto więc umieszczać główne obiekty fotografii, a na liniach wyznaczających te punkty umiejscawiać linię podziału kadru – mogą nią być np. horyzont lub ściana budynku. Elementy położone w tych miejscach w pierwszej kolejności przyciągają wzrok oglądającego. 
 '''
 
 [quote, Dorothea Lange]
 ____
 Wybierz temat i pracuj nad nim do wyczerpania… Musi to być coś, co naprawdę kochasz lub wyjątkowo nienawidzisz.
 ____
+
+
+
+Sztuka kompozycji kadru bazuje na wielu regułach. To, jak je stosujemy, ma decydujący wpływ na styl naszej fotografii. Zasady te możemy oczywiście także łamać, ale najpierw musimy je poznać i nauczyć się je wykorzystywać. Tych reguł jest jednak na tyle dużo, że można by o nich książkę napisać – dlatego też, w niniejszym artykule skupimy się wyłącznie na metodzie trójpodziału. O innych zasadach komponowania obrazu napiszemy natomiast niebawem na łamach naszego serwisu
 
 == Najciekawsze banki zdjęć
 [squere]
