@@ -43,8 +43,6 @@ ____
 
 
 
-Sztuka kompozycji kadru bazuje na wielu regułach. To, jak je stosujemy, ma decydujący wpływ na styl naszej fotografii. Zasady te możemy oczywiście także łamać, ale najpierw musimy je poznać i nauczyć się je wykorzystywać. Tych reguł jest jednak na tyle dużo, że można by o nich książkę napisać – dlatego też, w niniejszym artykule skupimy się wyłącznie na metodzie trójpodziału. O innych zasadach komponowania obrazu napiszemy natomiast niebawem na łamach naszego serwisu
-
 == Najciekawsze banki zdjęć
 [squere]
 . <http://www.magdeleine.com>
@@ -56,6 +54,8 @@ Sztuka kompozycji kadru bazuje na wielu regułach. To, jak je stosujemy, ma decy
 . <http://www.unsplash.com>
 
 '''
+
+Trudno sobie dziś wyobrazić fotografię bez barw. Mimo, iż zdjęcia czarno białe często uchodzą za bardziej artystyczne, to jednak żaden z nas nie zrezygnowałby z możliwości fotografowania w kolorze. Barwa w fotografii, podobnie jak kompozycja, czy kadrowanie, wymaga jednak przestrzegania pewnych reguł, aby mogła oddziaływać na odbiorcę naszych zdjęć w odpowiedni sposób, lub mówiąc wprost – "podobała się". Reguły te są tematem obecnego odcinka naszego cyklu dotyczącego podstaw fotografii.
 
 * [*] Fotografia
 * [x] Pasja
